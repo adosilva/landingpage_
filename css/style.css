@@ -28,7 +28,7 @@ body {
 .conteudo-social a {
   color: white;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 25px;
   padding-left: 0.5em;
 }
 
@@ -38,7 +38,7 @@ header {
   height: 80px;
   position: fixed;
   width: 100vw;
-  top: 30px;
+  top: 35px;
 }
 .conteudo-header {
   display: flex;
